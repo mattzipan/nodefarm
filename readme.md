@@ -9,6 +9,7 @@
 1. Clone github repo and cd into folder
 2. Run **npm install** in terminal
 3. Run **node index.js**
+4. Visit http://localhost:8000
 
 ## Screenshots
 
