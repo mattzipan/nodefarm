@@ -1,9 +1,10 @@
 # Nodefarm - Simple node server with html template files
 
-- barebones node server that serves HTML templates with dynamic data from a JSON file.
+- barebone node server that serves HTML templates with dynamic data from a JSON file.
 - no express, just pure http module
 
-## To run it yourself, clone this repository and run..
+## To start
 
-1. npm install
-2. node index.js
+1. Clone github repo and cd into folder
+2. Run **npm install** in terminal
+3. Run **node index.js**
